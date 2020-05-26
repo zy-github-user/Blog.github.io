@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Welcome to ZhaoDaBao's Blog
-=======
+
 Welcome ZhaoDaBao's Blog
 
 * [Home](https://zy-github-user.github.io/Blog.github.io/)
@@ -9,4 +7,4 @@ Welcome ZhaoDaBao's Blog
 
         * [Python](/articles/Python)
 
->>>>>>> 195c27ab00450430cde15b8a3d9828b1e65b1556
+
