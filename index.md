@@ -3,7 +3,7 @@ Welcome to ZhaoDaBao's Blog
 =======
 Welcome ZhaoDaBao's Blog
 
-* [Hmoe](/)
+* [Home](/index)
 
     * [Articles](/articles)
 
