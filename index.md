@@ -3,7 +3,7 @@ Welcome to ZhaoDaBao's Blog
 =======
 Welcome ZhaoDaBao's Blog
 
-* [Home](/index)
+* [Home](https://zy-github-user.github.io/Blog.github.io/)
 
     * [Articles](/articles)
 
