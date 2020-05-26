@@ -1,1 +1,3 @@
-welcome zhaodabao
+Welcome ZhaoDaBao's Blog
+
+[封面](/)
